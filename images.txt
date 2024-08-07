@@ -8,4 +8,4 @@ ubuntu/squid:latest
 certbot/certbot
 nginx:latest
 #支持指定架构
---platform=linux/aarch64 
+--platform=linux/arm64 
