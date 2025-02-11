@@ -1,5 +1,5 @@
-langgenius/dify-api:0.13.2
-langgenius/dify-web:0.13.2
+langgenius/dify-api:0.15.3
+langgenius/dify-web:0.15.3
 
 #支持指定架构
 --platform=linux/arm64 
