@@ -1,5 +1,4 @@
-langgenius/dify-api:0.15.3
-langgenius/dify-web:0.15.3
+xprobe/xinference
 
 #支持指定架构
 --platform=linux/arm64 
