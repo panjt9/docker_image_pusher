@@ -1,4 +1,4 @@
-qdrant/qdrant
+xprobe/xinference
 
 #支持指定架构
 
