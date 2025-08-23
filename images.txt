@@ -1,5 +1,6 @@
-nvcr.io/nvidia/pytorch:25.08-py3
-
+nvcr.io/nvidia/pytorch:25.07-py3
+nvcr.io/nvidia/pytorch:25.06-py3
+nvcr.io/nvidia/pytorch:25.05-py3
 
 #支持指定架构
 
