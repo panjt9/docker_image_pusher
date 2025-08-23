@@ -1,4 +1,4 @@
-xprobe/xinference:v1.7.1
+nvcr.io/nvidia/pytorch:25.08-py3
 
 
 #支持指定架构
