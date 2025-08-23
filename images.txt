@@ -1,4 +1,4 @@
-xprobe/xinference:v1.5.0
+xprobe/xinference:v1.7.1
 
 
 #支持指定架构
