@@ -1,4 +1,4 @@
-unclecode/crawl4ai:latest
+unclecode/crawl4ai
 
 #支持指定架构
 
