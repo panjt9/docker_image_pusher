@@ -1,4 +1,4 @@
-unclecode/crawl4ai
+springcloud/eureka
 
 #支持指定架构
 
