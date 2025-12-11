@@ -1,4 +1,5 @@
-springcloud/eureka
+springcloud/eureka:latest
+
 
 #支持指定架构
 
