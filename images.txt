@@ -1,4 +1,4 @@
-icepage/aujc:latest
+whyour/qinglong:latest
 #支持指定架构
 
 --platform=linux/arm64 
